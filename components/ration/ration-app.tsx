@@ -93,7 +93,8 @@ export function RationApp() {
               <Wheat className="size-5" aria-hidden="true" />
             </span>
             <div className="flex flex-col">
-              <h1 className="font-bold leading-tight">جیره‌نویس گوسفند</h1>
+              <h1 className="font-bold leading-tight">جیره‌نویسی گوسفند طراحی و توسعه توسط مسعود رعیتی
+شماره تماس: 09125244073 </h1>
               <p className="text-xs text-muted-foreground">اقتصادی‌ترین جیره عملی بر پایه ماده خشک</p>
             </div>
           </div>
