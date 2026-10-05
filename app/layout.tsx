@@ -6,7 +6,7 @@ import './globals.css'
 const vazir = Vazirmatn({ subsets: ['arabic', 'latin'], variable: '--font-vazir', display: 'swap' })
 
 export const metadata: Metadata = {
-  title: 'جیره‌نویس گوسفند | اقتصادی‌ترین جیره عملی',
+  title: 'جیره‌نویسی گوسفند | اقتصادی‌ترین جیره عملی',
   description:
     'نرم‌افزار جیره‌نویسی گوسفند بر پایه ماده خشک: محاسبه کم‌هزینه‌ترین جیره با رعایت نیاز غذایی، نسبت علوفه/کنسانتره و محدودیت نهاده‌ها، برای یک دام یا گروه.',
   generator: 'v0.app',
